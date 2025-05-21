@@ -2,6 +2,7 @@
 
 A beautiful, responsive photo gallery web page built with [Tailwind CSS](https://tailwindcss.com/) and [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/). This gallery is designed to showcase cherished memories and special moments in a visually appealing way.
 
+
 ## Features
 
 - **Responsive Design:** Looks great on mobile, tablet, and desktop.
@@ -42,6 +43,7 @@ You can deploy this site using any static hosting service, such as:
 - [GitHub Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/92c45d11-3d32-46a0-bccf-7fdb6c86c302/deploy-status)](https://app.netlify.com/projects/luhe/deploys)
 - Or upload to your own web server.
 
 ## Dependencies
