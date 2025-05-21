@@ -42,6 +42,7 @@ You can deploy this site using any static hosting service, such as:
 - [GitHub Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/92c45d11-3d32-46a0-bccf-7fdb6c86c302/deploy-status)](https://app.netlify.com/projects/luhe/deploys)
 - Or upload to your own web server.
 
 ## Dependencies
