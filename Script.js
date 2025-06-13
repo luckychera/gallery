@@ -1,5 +1,5 @@
 const teamMembers = [
-	{ name: "Hellen Jemal", role: "Lina" },
+	{ name: "Helen Jemal", role: "Lina" },
 	{ name: "I will always cherish the moments we shared.", role: "Lucky" },
 	{ name: "You’ve made a lasting impact on our Friendship.", role: "Lucky" },
 	{ name: "You can always count on me to be honest and real with you.", role: "Lucky" },
